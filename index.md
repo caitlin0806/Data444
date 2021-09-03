@@ -1,3 +1,5 @@
+This is my coursework for Data 444 Fall 2021.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/caitlin0806/Data444/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
